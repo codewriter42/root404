@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://codewriter42.github.io/root404/sitemap.xml
+
